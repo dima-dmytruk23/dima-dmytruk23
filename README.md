@@ -12,7 +12,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dima-dmytruk23&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dima-dmytruk23&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-[<!--START_SECTION:activity--><!--END_SECTION:activity-->]
+<!--START_SECTION:activity--><!--END_SECTION:activity-->
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=dima-dmytruk23&theme=discord&no-frame=false&no-bg=true&margin-w=4)

@@ -15,6 +15,9 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=dima-dmytruk23&theme=discord&no-frame=false&no-bg=true&margin-w=4)
 
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 

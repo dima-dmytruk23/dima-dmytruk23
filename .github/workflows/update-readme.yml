@@ -20,4 +20,4 @@ jobs:
           COMMIT_MSG: "Update Recent Activity on Profile"
           MAX_LINES: 5
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}

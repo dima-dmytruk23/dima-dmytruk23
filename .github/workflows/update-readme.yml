@@ -3,7 +3,7 @@ name: Update Recent Activity on Profile
 on:
   schedule:
     # Каждый час обновлять раздел Recent Activity на профиле
-    - cron: "0 * * * *"
+    - cron: "0/30 * * * *"
   workflow_dispatch:
 
 jobs:
@@ -16,6 +16,8 @@ jobs:
       - name: Update Recent Activity on Profile
         uses: jamesgeorge007/github-activity-readme@master
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          username: dima-dmytruk23
-          days: 7
+          GH_USERNAME: dima-dmytruk23
+          COMMIT_MSG: "Update Recent Activity on Profile"
+          MAX_LINES: 5
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

@@ -15,7 +15,7 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#299](https://github.com/LUCIT-Systems-and-Development/unicorn-binance-websocket-api/issues/299) in [LUCIT-Systems-and-Development/unicorn-binance-websocket-api](https://github.com/LUCIT-Systems-and-Development/unicorn-binance-websocket-api)
+1. ❗️ Opened issue [#315](https://github.com/LUCIT-Systems-and-Development/unicorn-binance-websocket-api/issues/315) in [LUCIT-Systems-and-Development/unicorn-binance-websocket-api](https://github.com/LUCIT-Systems-and-Development/unicorn-binance-websocket-api)
 2. 🗣 Commented on [#299](https://github.com/LUCIT-Systems-and-Development/unicorn-binance-websocket-api/issues/299) in [LUCIT-Systems-and-Development/unicorn-binance-websocket-api](https://github.com/LUCIT-Systems-and-Development/unicorn-binance-websocket-api)
 3. 🗣 Commented on [#299](https://github.com/LUCIT-Systems-and-Development/unicorn-binance-websocket-api/issues/299) in [LUCIT-Systems-and-Development/unicorn-binance-websocket-api](https://github.com/LUCIT-Systems-and-Development/unicorn-binance-websocket-api)
 4. 🗣 Commented on [#299](https://github.com/LUCIT-Systems-and-Development/unicorn-binance-websocket-api/issues/299) in [LUCIT-Systems-and-Development/unicorn-binance-websocket-api](https://github.com/LUCIT-Systems-and-Development/unicorn-binance-websocket-api)

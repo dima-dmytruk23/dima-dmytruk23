@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on NATS (Trading bot)<br>🌱 I’m currently learning Python, Architecture, Microservices, Trading<br>💬 Ask me about Python, Django
+🔭 I’m currently working on Algoritmic Trading bot based on Binance and Bybit <br>🌱 I’m currently learning Python, Golang, Architecture, Microservices, Trading<br>
 
 
 ## 🌐 Socials:

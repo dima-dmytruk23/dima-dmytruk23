@@ -2,7 +2,6 @@ name: Update Recent Activity on Profile
 
 on:
   schedule:
-    # Каждый час обновлять раздел Recent Activity на профиле
     - cron: "0/30 * * * *"
   workflow_dispatch:
 

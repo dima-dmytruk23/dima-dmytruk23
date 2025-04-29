@@ -15,8 +15,8 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#11680](https://github.com/freqtrade/freqtrade/issues/11680) in [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade)
-2. 🗣 Commented on [#315](https://github.com/LUCIT-Systems-and-Development/unicorn-binance-websocket-api/issues/315) in [LUCIT-Systems-and-Development/unicorn-binance-websocket-api](https://github.com/LUCIT-Systems-and-Development/unicorn-binance-websocket-api)
+1. 🗣 Commented on [#10074](https://github.com/freqtrade/freqtrade/issues/10074#issuecomment-2838603756) in [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade)
+2. ❗ Opened issue [#11680](https://github.com/freqtrade/freqtrade/issues/11680) in [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade)
 3. ❗ Opened issue [#315](https://github.com/LUCIT-Systems-and-Development/unicorn-binance-websocket-api/issues/315) in [LUCIT-Systems-and-Development/unicorn-binance-websocket-api](https://github.com/LUCIT-Systems-and-Development/unicorn-binance-websocket-api)
 4. 🗣 Commented on [#299](https://github.com/LUCIT-Systems-and-Development/unicorn-binance-websocket-api/issues/299) in [LUCIT-Systems-and-Development/unicorn-binance-websocket-api](https://github.com/LUCIT-Systems-and-Development/unicorn-binance-websocket-api)
 5. 🗣 Commented on [#299](https://github.com/LUCIT-Systems-and-Development/unicorn-binance-websocket-api/issues/299) in [LUCIT-Systems-and-Development/unicorn-binance-websocket-api](https://github.com/LUCIT-Systems-and-Development/unicorn-binance-websocket-api)

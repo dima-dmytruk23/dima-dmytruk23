@@ -15,11 +15,11 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12897](https://github.com/freqtrade/freqtrade/issues/12897#issuecomment-4005939779) in [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade)
-2. 🗣 Commented on [#12897](https://github.com/freqtrade/freqtrade/issues/12897#issuecomment-4005100656) in [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade)
-3. ❗ Opened issue [#28062](https://github.com/ccxt/ccxt/issues/28062) in [ccxt/ccxt](https://github.com/ccxt/ccxt)
-4. ℹ️ Labeled issue [#12897](https://github.com/freqtrade/freqtrade/issues/12897) in [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade)
-5. ❗ Opened issue [#12897](https://github.com/freqtrade/freqtrade/issues/12897) in [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade)
+1. 🗣 Commented on [#28062](https://github.com/ccxt/ccxt/issues/28062#issuecomment-4007168875) in [ccxt/ccxt](https://github.com/ccxt/ccxt)
+2. 🗣 Commented on [#12897](https://github.com/freqtrade/freqtrade/issues/12897#issuecomment-4005939779) in [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade)
+3. 🗣 Commented on [#12897](https://github.com/freqtrade/freqtrade/issues/12897#issuecomment-4005100656) in [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade)
+4. ❗ Opened issue [#28062](https://github.com/ccxt/ccxt/issues/28062) in [ccxt/ccxt](https://github.com/ccxt/ccxt)
+5. ℹ️ Labeled issue [#12897](https://github.com/freqtrade/freqtrade/issues/12897) in [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade)
 <!--END_SECTION:activity-->
 
 ## 🏆 GitHub Trophies

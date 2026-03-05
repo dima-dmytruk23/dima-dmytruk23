@@ -15,10 +15,10 @@
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#28062](https://github.com/ccxt/ccxt/issues/28062) in [ccxt/ccxt](https://github.com/ccxt/ccxt)
-2. ℹ️ Labeled issue [#12897](https://github.com/freqtrade/freqtrade/issues/12897) in [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade)
-3. ❗ Opened issue [#12897](https://github.com/freqtrade/freqtrade/issues/12897) in [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade)
-4. 🗣 Commented on [#299](https://github.com/LUCIT-Systems-and-Development/unicorn-binance-websocket-api/issues/299) in [LUCIT-Systems-and-Development/unicorn-binance-websocket-api](https://github.com/LUCIT-Systems-and-Development/unicorn-binance-websocket-api)
+1. 🗣 Commented on [#12897](https://github.com/freqtrade/freqtrade/issues/12897#issuecomment-4005100656) in [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade)
+2. ❗ Opened issue [#28062](https://github.com/ccxt/ccxt/issues/28062) in [ccxt/ccxt](https://github.com/ccxt/ccxt)
+3. ℹ️ Labeled issue [#12897](https://github.com/freqtrade/freqtrade/issues/12897) in [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade)
+4. ❗ Opened issue [#12897](https://github.com/freqtrade/freqtrade/issues/12897) in [freqtrade/freqtrade](https://github.com/freqtrade/freqtrade)
 5. 🗣 Commented on [#299](https://github.com/LUCIT-Systems-and-Development/unicorn-binance-websocket-api/issues/299) in [LUCIT-Systems-and-Development/unicorn-binance-websocket-api](https://github.com/LUCIT-Systems-and-Development/unicorn-binance-websocket-api)
 <!--END_SECTION:activity-->
 
